@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{307C9EFF-8811-228D-B50F-05DCF836B563}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/LoadToStart.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerScript.cs" Line="29" Column="2" />
+      <File FileName="Assets/Script/CubeSpawnScript.cs" Line="22" Column="3" />
+      <File FileName="Assets/Script/LoadToStart.cs" Line="15" Column="43" />
+      <File FileName="Assets/Script/StartSceneScript.cs" Line="14" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SchoolCheckWork PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
